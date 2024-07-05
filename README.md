@@ -12,6 +12,7 @@ Je déclare par la présente que je ne suis pas responsable de toute utilisation
 ## Prérequis 📋
 Avant de commencer, assurez-vous d'avoir l'élément suivant installé sur votre machine :
 - Python 3.x 🐍
+- Avoir de l'argent sur son compte API Open AI
 
 
 ## Installation 🛠️

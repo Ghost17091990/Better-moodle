@@ -25,6 +25,7 @@ pip install -r requirements.txt
 ```
 
 **☢️❗Renseignez votre clé API OpenAI🤖☢️❗**
+
 Allez dans le main.py et renseignez votre clé API
 
 ## Utilisation 🚀

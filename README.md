@@ -14,6 +14,8 @@ Avant de commencer, assurez-vous d'avoir l'élément suivant installé sur votre
 - Python 3.x 🐍
 - Avoir de l'argent sur son compte API Open AI
 
+https://platform.openai.com/settings/profile?tab=api-keys
+
 
 ## Installation 🛠️
 Créer un environnement virtuel si possible 😅:

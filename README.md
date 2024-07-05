@@ -4,6 +4,7 @@
 Bienvenue dans Better Moodle
 L'objectif est de faciliter la réponse au questionnaire Moodle qui (on le sait tous) sont parfois complex
 Ce document va vous guider à travers son utilisation et ses fonctionnalités.
+(Attention cela ne marche que sur les qcm ❤️)
 
 ## Disclaymer 🤓
 Je déclare par la présente que je ne suis pas responsable de toute utilisation abusive ou d'activités illégales réalisées à l'aide de mon programme. Le code est fourni à des fins éducatives et de recherche uniquement, et toute utilisation en dehors de ces fins est aux risques et périls de l'utilisateur.
